@@ -11,13 +11,22 @@ Like Institutional logo/title printed T-shirts , Tech T-shirts and many more. Ou
 ## Features
 
 - Registration
+    - using Otp or Google 
 - Login
+    - using Mobile No. and password
+    - using google
 - Home Page
 - Product Page
 - Single Product Page along with description
 - Filter
-- Search
+    - price filter
+    - popularity filter 
+- Search 
 - Profile
+    - Photo(optional)
+    - Name
+    - Address
+    - Account
 - MyCart
 - My Orders
 - Live Order Tracking
